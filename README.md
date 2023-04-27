@@ -20,23 +20,24 @@
 ##### A debounce circuit was built for the button to prevent any button bouncing from occurring. 
 
 # Part List:
-##### (2) 2K 5% resistor	
-##### (4) 1k 5% resistor	
-##### (1) 10k 5% resistor	
-##### (1) 220 Ohms 5% resistor	
-##### (1) Pushbutton	
-##### (1) 10 µF capacitor	
-##### (2) BC352-239AU Bluetooth Module	
-##### (1) TIP31 NPN Transistor	
-##### (1) Active Buzzer	
-##### (1) DS3231M Real-Time Clock	
-##### (1) 10K Potentiometer	
-##### (1) LCD1602 Module	
-##### (2) Arduino UNO	
-##### (2) USB 2.0 Printer Cable Type A/B	
+(2) 2K 5% resistor	
+(4) 1k 5% resistor	
+(1) 10k 5% resistor	
+(1) 220 Ohms 5% resistor	
+(1) Pushbutton	
+(1) 10 µF capacitor	
+(2) BC352-239AU Bluetooth Module	
+(1) TIP31 NPN Transistor	
+(1) Active Buzzer	
+(1) DS3231M Real-Time Clock	
+(1) 10K Potentiometer	
+(1) LCD1602 Module	
+(2) Arduino UNO	
+(2) USB 2.0 Printer Cable Type A/B	
 
 # Picture of Circuit Diagram
 
 ![Alarm Clock Circuit Diagram](https://user-images.githubusercontent.com/129560634/234762866-65273b2f-6491-435d-a2e7-8eebdbbbb4d7.png)
 
 
+![Bluetooth Transmitter Circuit Diagram (1)](https://user-images.githubusercontent.com/129560634/234779232-78c8b781-15bf-4402-819d-f0bf2efefe97.png)
